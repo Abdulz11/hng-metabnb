@@ -30,6 +30,12 @@ nav {
   gap: 2.5rem;
   align-items: center;
 }
+.link-div p:hover:nth-child(1){
+  color:purple;
+}
+.link-div p:hover:nth-child(2){
+  color:purple;
+}
 .nav-container {
   display: flex;
   justify-content: space-between;
