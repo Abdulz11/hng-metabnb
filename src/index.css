@@ -31,7 +31,7 @@ nav {
   align-items: center;
 }
 .link-div p{
-  color:rgb(160, 34, 121);
+  border-bottom: 3px solid rgb(160, 34, 121);
 }
 /*.link-div p:hover:nth-child(2){
   color:purple;
